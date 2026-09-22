@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliacao1</string>
+
+    <string name="button_configurar">Configurar</string>
+    <string name="button_sair">Sair</string>
+
+    <string name="titulo_configuracao">Configuração</string>
+    <string name="label_nome">Nome:</string>
+    <string name="label_sexo">Sexo:</string>
+    <string name="radio_masculino">Masculino</string>
+    <string name="radio_feminino">Feminino</string>
+    <string name="label_dieta">Dieta:</string>
+    <string name="check_hipolipidica">Hipolipídica</string>
+    <string name="check_hipoglicidica">Hipoglicídica</string>
+    <string name="check_sem_gluten">Sem Glúten</string>
+    <string name="button_confirmar">Confirmar</string>
+    <string name="button_cancelar">Cancelar</string>
+</resources>
